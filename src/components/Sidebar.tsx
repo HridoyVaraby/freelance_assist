@@ -18,8 +18,9 @@ export function Sidebar({ activeTab, onTabChange }: SidebarProps) {
   return (
     <div className="w-64 bg-white h-screen border-r border-gray-200 fixed left-0 top-0">
       <div className="p-6">
-        <h1 className="text-2xl font-bold text-gray-800">ProTrack</h1>
+        <h1 className="text-2xl font-bold text-gray-800">Freelance Assist</h1>
         <p className="text-sm text-gray-500">Project Management</p>
+        <p className="text-sm text-gray-500">by Hridoy Varaby</p>
       </div>
 
       <nav className="mt-6">
