@@ -37,15 +37,15 @@ To install and run Freelance Assist on your local machine, follow these steps:
 2.Navigate to the project directory:
 
 ```bash
-cd freelance_assist
-Install the dependencies:
+    cd freelance_assist
+    Install the dependencies:
 
 ```bash
-npm install
-Start the development server:
+    npm install
+    Start the development server:
 
 ```bash
-npm start
+    npm start
 
 #Usage
 Open your browser and navigate to http://localhost:3000.
@@ -60,20 +60,6 @@ Monitor domain and hosting renewal dates through the dashboard and receive timel
 We welcome contributions from the community! To contribute:
 
 Fork the repository.
-
-Create a new branch:
-
-bash
-git checkout -b feature-branch
-Make your changes and commit them:
-
-bash
-git commit -m "Describe your changes"
-Push to the branch:
-
-bash
-git push origin feature-branch
-Open a pull request on GitHub.
 
 #License
 This project is licensed under the MIT License - see the LICENSE file for details.
