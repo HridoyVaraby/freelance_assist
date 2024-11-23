@@ -35,19 +35,14 @@ To install and run Freelance Assist on your local machine, follow these steps:
    ```bash
    git clone https://github.com/YourUsername/freelance_assist.git
 2.Navigate to the project directory:
-
-```bash
     cd freelance_assist
     Install the dependencies:
-
-```bash
     npm install
     Start the development server:
-
-```bash
     npm start
 
-#Usage
+
+##Usage
 Open your browser and navigate to http://localhost:3000.
 
 Create new projects and fill in the necessary details.
